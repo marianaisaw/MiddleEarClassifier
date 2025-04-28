@@ -2,7 +2,7 @@
 //  CaptureViewController.swift
 //  xray classifier app
 //
-//  Created by Marc Daou on 6/2/22.
+//  Created by Mariana Isabel Gonzalez Reyes on 20/4/25.
 //
 
 import UIKit
